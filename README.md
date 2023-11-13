@@ -15,6 +15,8 @@ Technical preview of Tilekit.
 - [ ]  Node graph engine with good enough multicore CPU
 - [ ]  Experimental flagged GPGPU support
 
+<img width="1267" alt="tilekit-arch" src="https://github.com/feynon/tilekit-preview/assets/41825871/15a44eb3-4a98-4bc6-84fb-7dd09f6cae19">
+
 ## Milestone 2
 - [ ] Performance profiler for compute
 - [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
