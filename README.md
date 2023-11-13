@@ -17,3 +17,10 @@ Technical preview of Tilekit.
 
 ## Milestone 2
 - [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
+
+---
+
+# **Powered by Rust, WASM & WebGPU**
+
+![image](https://github.com/feynon/tilekit-preview/assets/41825871/89648d1d-9652-4694-9307-0a7d87e8e274)
+![image](https://github.com/feynon/tilekit-preview/assets/41825871/6af9d073-ffb0-4f46-8b12-43488c2d0263)
