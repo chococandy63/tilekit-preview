@@ -6,3 +6,10 @@ Technical preview of Tilekit.
 - [WebAssembly](https://webassembly.org/) is used both as a sandboxed runtime for the nodes, and as a way to run the entire runtime.
 - Local LLMs on nodes with [WONNX](https://github.com/webonnx/wonnx),  a GPU-accelerated ONNX inference run-time for web.
 
+# Status
+
+## Phase 1
+
+- [ ]  Node graph engine with good enough multicore CPU
+- [ ]  Experimental flagged GPPGU support
+- [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
