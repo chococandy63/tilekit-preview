@@ -16,6 +16,7 @@ Technical preview of Tilekit.
 - [ ]  Experimental flagged GPGPU support
 
 ## Milestone 2
+- [ ] Performance profiler for compute
 - [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
 
 ---
