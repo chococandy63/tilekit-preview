@@ -8,7 +8,9 @@ Technical preview of Tilekit.
 
 # Status
 
-## Phase 1
+## Milestone 1
+
+> Coming early 2024.
 
 - [ ]  Node graph engine with good enough multicore CPU
 - [ ]  Experimental flagged GPPGU support
