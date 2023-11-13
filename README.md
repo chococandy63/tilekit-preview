@@ -13,5 +13,5 @@ Technical preview of Tilekit.
 > Coming early 2024.
 
 - [ ]  Node graph engine with good enough multicore CPU
-- [ ]  Experimental flagged GPPGU support
+- [ ]  Experimental flagged GPGPU support
 - [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
