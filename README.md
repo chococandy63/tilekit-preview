@@ -12,10 +12,11 @@ Technical preview of Tilekit.
 
 > Coming early 2024.
 
-- [ ]  Node graph engine with good enough multicore CPU
-- [ ]  Experimental flagged GPGPU support
+- [ ]  Node graph engine with good enough CPU executor using Wasm multithreading
+- [ ]  Experimental GPGPU support
 
-<img width="1267" alt="tilekit-arch" src="https://github.com/feynon/tilekit-preview/assets/41825871/15a44eb3-4a98-4bc6-84fb-7dd09f6cae19">
+<img width="1184" alt="tilekit-arch (1)" src="https://github.com/feynon/tilekit-preview/assets/41825871/adb2b437-109d-4857-8fd4-0b40b6a85598">
+
 
 ## Milestone 2
 - [ ] Performance profiler for compute
