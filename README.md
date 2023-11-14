@@ -17,9 +17,6 @@ Technical preview of Tilekit.
 - [ ]  Multithreaded Wasm executor as CPU fallback
 - [ ]  Experimental GPGPU executor
 
-<img width="1184" alt="tilekit-arch (1)" src="https://github.com/feynon/tilekit-preview/assets/41825871/adb2b437-109d-4857-8fd4-0b40b6a85598">
-
-
 ## Milestone 2
 - [ ] Performance profiler for compute
 - [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
