@@ -18,16 +18,16 @@ The scope is to make it easy to run high-performance compute locally on the web 
 
 ## Milestone 3
 > Local LLM story.
-- [ ]  WONNX runtime integration with node graph engine for Local LLMs deployment
+- [ ]  Burn framework backends' integration with node graph engine for Local LLMs deployment
 
 
 ## Milestone 4
 > Hosting support for models with Cloudflare AI
-- [ ]  Integration with Cloudflare AI for larger LLM models.
+- [ ]  Integration with Cloudflare AI for larger LLM models
 
 ## Milestone 5
 > Support for native targets
-- [ ] Cross-platform interoperable layer for the engine.
+- [ ] Cross-platform interoperable layer for the engine
 
 
 ---
