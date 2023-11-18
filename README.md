@@ -1,6 +1,6 @@
 # tilekit-preview
 
-The scope is to make it easy to run high-performance compute locally on the web with Rust by leveraging WASM and WebGPU, without the need to learn any shader language.
+The scope is to simplify running high-performance compute use cases locally on the web with Rust by leveraging WASM and WebGPU, without the need to learn any shader language.
 
 # Status
 
@@ -8,26 +8,25 @@ The scope is to make it easy to run high-performance compute locally on the web 
 > Make multicore CPU work with experimental GPU support.
 
 - [ ]  Node graph engine with executor interface
-- [ ]  Tilekit CLI toolkit
 - [ ]  Multithreaded Wasm executor for CPU compute
 - [ ]  Experimental GPU executor
+- [ ]  CLI toolkit
 
 ## Milestone 2
-> Node API interface for sharing compute operations portably.
-- [ ]  Node API reference documentation
+> Node graph API interface for sharing compute operations portably.
+- [ ]  Node graph API reference documentation
 
 ## Milestone 3
 > Local LLM story.
 - [ ]  Burn framework backends' integration with node graph engine for Local LLMs deployment
 
-
 ## Milestone 4
-> Hosting support for models with Cloudflare AI
-- [ ]  Integration with Cloudflare AI for larger LLM models
-
-## Milestone 5
 > Support for native targets
 - [ ] Cross-platform interoperable layer for the engine
+      
+## Milestone 5
+> Hosting support for larger models with Cloudflare AI
+- [ ]  Cloudflare AI deployment for larger LLM models through a fork to Burn's import ONNX model crate
 
 
 ---
