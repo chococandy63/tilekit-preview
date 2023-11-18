@@ -5,8 +5,7 @@ The scope is to simplify running high-performance compute use cases locally on t
 # Status
 
 ## Milestone 0
-> Communicate project visions and roadmap
-- [ ] Write an introductory blog post
+> Communicate the project's vision, scope, and ongoing roadmap
 - [ ] Design a layered landing page
 
 ## Milestone 1
