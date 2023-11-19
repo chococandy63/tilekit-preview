@@ -14,6 +14,7 @@ The scope is to simplify running high-performance compute use cases locally on t
 - [ ]  Node graph engine with executor interface
 - [ ]  Multithreaded Wasm executor for CPU compute
 - [ ]  Experimental GPU executor
+- [ ]  Profiler
 - [ ]  CLI toolkit with Vite bundler plugin
 
 ## Milestone 2
