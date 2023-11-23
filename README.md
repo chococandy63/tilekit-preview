@@ -41,7 +41,30 @@ The scope is to simplify running high-performance compute use cases locally on t
 <img width="867" alt="tilekit-arch (4)" src="https://github.com/feynon/tilekit-preview/assets/41825871/129ae26f-baa4-4f35-af66-31cb928669d6">
 
 
-## Powered by Rust, WASM & WebGPU
+# Contributor guide
 
-![image](https://github.com/feynon/tilekit-preview/assets/41825871/89648d1d-9652-4694-9307-0a7d87e8e274)
-![image](https://github.com/feynon/tilekit-preview/assets/41825871/6af9d073-ffb0-4f46-8b12-43488c2d0263)
+The repository will be open to contributors after Milestone 1 is shipped with new documentation. Until then, we have a couple of listed resources for people who are new to familiarize themselves with WASM and WebGPU.
+
+## Learning WebAssembly
+
+- https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/
+- https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics
+- https://rsms.me/wasm-intro
+- https://juejin.cn/post/7013286944553566215
+- https://rustwasm.github.io/book/
+- https://github.com/EmNudge/watlings
+- https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
+- https://hacks.mozilla.org/2017/07/creating-a-webassembly-module-instance-with-javascript/
+- https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
+
+## Learning WebGPU
+
+- https://surma.dev/things/webgpu/
+- https://developer.chrome.com/articles/gpu-compute/
+- https://codelabs.developers.google.com/your-first-webgpu-app#7
+- https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html
+- https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html
+- https://developer.chrome.com/blog/webgpu-cross-platform/
+- https://doc.babylonjs.com/features/featuresDeepDive/materials/shaders/computeShader
+- https://cohost.org/mcc/post/1406157-i-want-to-talk-about
+- https://sotrh.github.io/learn-wgpu/
