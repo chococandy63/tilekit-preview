@@ -40,6 +40,7 @@ The scope is to simplify running high-performance compute use cases locally on t
 
 <img width="867" alt="tilekit-arch (4)" src="https://github.com/feynon/tilekit-preview/assets/41825871/129ae26f-baa4-4f35-af66-31cb928669d6">
 
+---
 
 # Contributor guide
 
